@@ -54,28 +54,28 @@ msgid "Marionumber1 for his kernel exploit"
 msgstr "Marionumber1 per il suo kernel exploit"
 
 msgid "The whole libwiiu team and it's contributors."
-msgstr "Tutto il team libwiiu ed i suoi contributors."
+msgstr "Tutto il team libwiiu ed i suoi collaboratori."
 
 msgid "Extra Save:"
-msgstr ""
+msgstr "Salvataggi Extra"
 
 msgid "Enable DLC Support:"
-msgstr ""
+msgstr "Abilita supporto DLC"
 
 msgid "Update Folder"
-msgstr ""
+msgstr "Aggiorna Cartella"
 
 msgid "Save Mode"
-msgstr ""
+msgstr "Modalità di Salvataggio"
 
 msgid "Launch Mode"
 msgstr "Modalità di Avvio"
 
 msgid "<Settings Default>"
-msgstr ""
+msgstr "Impostazione Predefinita"
 
 msgid "Saving game settings!"
-msgstr ""
+msgstr "Impostazione di Salvataggio del Gioco"
 
 msgid "Off"
 msgstr ""
@@ -120,7 +120,7 @@ msgid "Game"
 msgstr "Gioco"
 
 msgid "HID settings"
-msgstr ""
+msgstr "Impostazione HID"
 
 msgid "Launch method selection"
 msgstr "Seleziona Modalità di Avvio"
@@ -129,16 +129,16 @@ msgid "Log server control"
 msgstr "Log Controllo Server"
 
 msgid "Padcon settings"
-msgstr ""
+msgstr "Impostazione Padcon"
 
 msgid "PyGecko settings"
-msgstr ""
+msgstr "Impostazione PyGecko"
 
 msgid "Credits"
 msgstr "Crediti"
 
 msgid "Credits to all contributors"
-msgstr "Ringraziamenti a tutti i contributors"
+msgstr "Ringraziamenti a tutti i collaboratori"
 
 msgid "Game View TV"
 msgstr "Vista TV"
@@ -147,7 +147,7 @@ msgid "Game View DRC"
 msgstr "Vista DRC (gamepad)"
 
 msgid "Show Game Settings"
-msgstr ""
+msgstr "Mostra Impostazioni del Gioco"
 
 msgid "Host IP"
 msgstr ""
@@ -156,7 +156,7 @@ msgid "Game Path"
 msgstr "Percorso Gioco"
 
 msgid "Game Save Path"
-msgstr "Percorso Slavataggio"
+msgstr "Percorso Salvataggio"
 
 msgid "Game Save Mode"
 msgstr "Modalità Salvataggio"
